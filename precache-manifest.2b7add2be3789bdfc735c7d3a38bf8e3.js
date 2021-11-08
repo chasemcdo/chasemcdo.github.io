@@ -1,43 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b66add68a8380192e9b193e92f57f11f",
+    "revision": "2bd961a46f6e0054cc31cf9e8022c759",
     "url": "/index.html"
   },
   {
-    "revision": "c45c0027060c26a72271",
+    "revision": "44e8ee54a5bf9b95e83e",
     "url": "/static/css/3.df879eac.chunk.css"
   },
   {
-    "revision": "bf41c3aea5a7af4ec4cb",
+    "revision": "036e0e01c47b8c88d755",
     "url": "/static/css/4.e91a4b36.chunk.css"
   },
   {
-    "revision": "e6c2bf3cd88a4c130e94",
+    "revision": "563c77a86e6116ffb58b",
     "url": "/static/css/main.faa50e85.chunk.css"
   },
   {
-    "revision": "e2903c1e02bfddc7489d",
-    "url": "/static/js/2.8a7aa8b1.chunk.js"
+    "revision": "cd0fff5f1e063e0367de",
+    "url": "/static/js/2.c86bcf9a.chunk.js"
   },
   {
     "revision": "6e1d2efc12a1ac972ff1f942df7eb0bd",
-    "url": "/static/js/2.8a7aa8b1.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.c86bcf9a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c45c0027060c26a72271",
-    "url": "/static/js/3.4dbd9f13.chunk.js"
+    "revision": "44e8ee54a5bf9b95e83e",
+    "url": "/static/js/3.83fd37ca.chunk.js"
   },
   {
-    "revision": "bf41c3aea5a7af4ec4cb",
-    "url": "/static/js/4.53884be8.chunk.js"
+    "revision": "036e0e01c47b8c88d755",
+    "url": "/static/js/4.aa33edbf.chunk.js"
   },
   {
-    "revision": "e6c2bf3cd88a4c130e94",
-    "url": "/static/js/main.e105d736.chunk.js"
+    "revision": "563c77a86e6116ffb58b",
+    "url": "/static/js/main.8eccbc10.chunk.js"
   },
   {
-    "revision": "7136bc8859b9e8e33c27",
-    "url": "/static/js/runtime-main.d9fd6b7e.js"
+    "revision": "1f8c62b2b0d657611c21",
+    "url": "/static/js/runtime-main.07c7e05b.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -60,6 +60,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/contactMailDark.51cf7192.svg"
   },
   {
+    "revision": "a9bb200db37252ccef69fb009b1cc747",
+    "url": "/static/media/cypress-logo.a9bb200d.png"
+  },
+  {
     "revision": "59389695208d7454c6607bed51ed4316",
     "url": "/static/media/developerActivity.59389695.svg"
   },
@@ -76,12 +80,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/marks-logo.78d4c143.jpg"
   },
   {
+    "revision": "604437a7c718989ac48ad0bbf52f4148",
+    "url": "/static/media/misp-logo.604437a7.png"
+  },
+  {
     "revision": "ee62cb58630f29a6e6201b49d4c03728",
     "url": "/static/media/pwaLogo.ee62cb58.webp"
   },
   {
-    "revision": "25018d29d5ab115bc51c3e9a2d92f90f",
-    "url": "/static/media/saayaHealthLogo.25018d29.webp"
+    "revision": "a1401a41a552ea0bce96620a66338c61",
+    "url": "/static/media/rsx-logo.a1401a41.svg"
   },
   {
     "revision": "3440939881da8339d1597e8d77cdf850",
@@ -90,6 +98,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "13780cdd0144cacdef25486e2c2503f8",
     "url": "/static/media/talksCardBack.13780cdd.svg"
+  },
+  {
+    "revision": "527e1c911630ff4e600f8c972d760a19",
+    "url": "/static/media/utat-logo.527e1c91.png"
   },
   {
     "revision": "11ec10a5d0e2c70425e500399b47dd97",
