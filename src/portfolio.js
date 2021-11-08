@@ -54,20 +54,24 @@ https://fontawesome.com/icons?d=gallery */
 
   softwareSkills: [
     {
+      skillName: "Learn",
+      fontAwesomeClassname: "fas fa-graduation-cap"
+    },
+    {
       skillName: "python",
       fontAwesomeClassname: "fab fa-python"
     },
     {
-      skillName: "html-5",
-      fontAwesomeClassname: "fab fa-html5"
+      skillName: "Git",
+      fontAwesomeClassname: "fab fa-git-alt"
     },
     {
       skillName: "Flask",
-      fontAwesomeClassname: "fab fa-django"
+      fontAwesomeClassname: "fas fa-flask"
     },
     {
-      skillName: "css3",
-      fontAwesomeClassname: "fab fa-css3-alt"
+      skillName: "Django",
+      fontAwesomeClassname: "fas fa-server"
     },
     {
       skillName: "Linux",
@@ -76,6 +80,18 @@ https://fontawesome.com/icons?d=gallery */
     {
       skillName: "sql",
       fontAwesomeClassname: "fas fa-database"
+    },
+    {
+      skillName: "html-5",
+      fontAwesomeClassname: "fab fa-html5"
+    },
+    {
+      skillName: "css3",
+      fontAwesomeClassname: "fab fa-css3-alt"
+    },
+    {
+      skillName: "Verilog",
+      fontAwesomeClassname: "fas fa-bolt"
     },
   ],
   display: true // Set false to hide this section, defaults to true
