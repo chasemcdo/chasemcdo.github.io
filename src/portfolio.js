@@ -171,6 +171,28 @@ const workExperiences = {
         "Represent the 80 third year Engineering Science students in the Machine Intelligence option for all things academic and otherwise school related",
         "Actively assist classmates with course related and organizational questions"
       ]
+    },
+    {
+      role: "Rover Autonomy Developer",
+      company: "University of Toronto Robotics for Space Exploration Team",
+      companylogo: require("./assets/images/rsx-logo.svg"),
+      date: "March 2021 – Present",
+      desc: "",
+      descBullets: [
+        "Assembled Raspberry Pi powered Mini Rover for use in testing rover software",
+        "Aided in documenting Mini Rover assembly and software setup"
+      ]
+    },
+    {
+      role: "Structure Team Member",
+      company: "University of Toronto Aerospace Team",
+      companylogo: require("./assets/images/utat-logo.png"),
+      date: "August 2020 - March 2021",
+      desc: "",
+      descBullets: [
+        "Develop CAD models used in manufacturing the ground support systems for the launch of our rockets. (Solidworks)",
+        "Aided in teaching incoming members to use Solidworks"
+      ]
     }
   ]
 };
@@ -186,23 +208,34 @@ const openSource = {
 // Some big projects you have worked on
 
 const bigProjects = {
-  title: "Big Projects",
-  subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
+  title: "Projects",
+  subtitle: "",
   projects: [
     {
-      image: require("./assets/images/saayaHealthLogo.webp"),
-      projectName: "Saayahealth",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      image: require("./assets/images/misp-logo.png"),
+      projectName: "MISP Module Development and Deployment",
+      projectDesc: "Developed and deployed custom Python modules for a MISP threat sharing instance, interacting with the MISP RESTful API to extract data",
       footerLink: [
         {
-          name: "Visit Website",
-          url: "http://saayahealth.com/"
+          name: "Learn More",
+          url: "https://www.misp-project.org/"
         }
         //  you can add extra buttons here.
       ]
+    },
+    {
+      image: require("./assets/images/cypress-logo.png"),
+      projectName: "Cypress Test Suite Development and Deployment",
+      projectDesc: "Used Cypress (a JavaScript-based front end testing tool) to develop automated tests for various web apps. These test suites were deployed using Azure DevOps Pipelines for continuous testing of releases.",
+      footerLink: [
+        {
+          name: "Learn More",
+          url: "https://www.cypress.io/"
+        }
+      ]
     }
   ],
-  display: false // Set false to hide this section, defaults to true
+  display: true // Set false to hide this section, defaults to true
 };
 
 // Achievement Section
