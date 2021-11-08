@@ -58,12 +58,16 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fas fa-graduation-cap"
     },
     {
-      skillName: "python",
+      skillName: "Python",
       fontAwesomeClassname: "fab fa-python"
     },
     {
       skillName: "Git",
       fontAwesomeClassname: "fab fa-git-alt"
+    },
+    {
+      skillName: "Bash",
+      fontAwesomeClassname: "fas fa-terminal"
     },
     {
       skillName: "Flask",
@@ -78,15 +82,15 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-linux"
     },
     {
-      skillName: "sql",
+      skillName: "SQL",
       fontAwesomeClassname: "fas fa-database"
     },
     {
-      skillName: "html-5",
+      skillName: "HTML-5",
       fontAwesomeClassname: "fab fa-html5"
     },
     {
-      skillName: "css3",
+      skillName: "CSS3",
       fontAwesomeClassname: "fab fa-css3-alt"
     },
     {
@@ -130,7 +134,7 @@ const techStack = {
     },
     {
       Stack: "Learning",
-      progressPercentage: "100%"
+      progressPercentage: "110%"
     }
   ],
   displayCodersrank: false // Set true to display codersrank badges section need to changes your username in src/containers/skillProgress/skillProgress.js:17:62, defaults to false
