@@ -482,6 +482,24 @@
       "contributions": [
         "bug"
       ]
+    },
+    {
+      "login": "CanciuCostin",
+      "name": "Canciu Costin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/27332434?v=4",
+      "profile": "https://github.com/CanciuCostin",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "SpectralGT",
+      "name": "Atharv Singh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/78777556?v=4",
+      "profile": "https://github.com/SpectralGT",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
