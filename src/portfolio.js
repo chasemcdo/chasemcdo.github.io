@@ -14,7 +14,7 @@ const greeting = {
   username: "Chase McDougall",
   title: "Howdy! I'm Chase",
   subTitle: emoji(
-    "A passionate Full Stack Software Developer with experience building and testing various applications with Python / Django / Flask / Cypress and other cool libraries, frameworks, and applications."
+    "A passionate Full Stack Software Developer with experience building and testing various applications with Ruby on Rails / Python / Django / Flask / Cypress and other cool libraries, frameworks, and applications."
   ),
   resumeLink:
     "https://docs.google.com/document/d/1l6UbQLr1nZPDoEor9mo4KpSTknU2jO9P4vT40cchrAg/edit?usp=sharing", // Set to empty to hide the button
@@ -56,6 +56,18 @@ https://fontawesome.com/icons?d=gallery */
     {
       skillName: "Learn",
       fontAwesomeClassname: "fas fa-graduation-cap"
+    },
+    {
+      skillName: "Ruby on Rails",
+      fontAwesomeClassname: "fas fa-gem"
+    },
+    {
+      skillName: "JavaScript",
+      fontAwesomeClassname: "fab fa-js"
+    },
+    {
+      skillName: "React",
+      fontAwesomeClassname: "fab fa-react"
     },
     {
       skillName: "Python",
@@ -125,12 +137,12 @@ const techStack = {
   viewSkillBars: true, //Set it to true to show Proficiency Section
   experience: [
     {
-      Stack: "Python", //Insert stack or technology you have experience in
-      progressPercentage: "90%" //Insert relative proficiency in percentage
+      Stack: "Ruby",
+      progressPercentage: "85%"
     },
     {
-      Stack: "Flask / Django",
-      progressPercentage: "70%"
+      Stack: "Python", //Insert stack or technology you have experience in
+      progressPercentage: "75%" //Insert relative proficiency in percentage
     },
     {
       Stack: "Learning",
@@ -146,9 +158,23 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
+      role: "Software Developer (Paid)",
+      company: "IBM",
+      companylogo: require("./assets/images/ibm_logo.svg"),
+      date: "May 2022 – Present",
+      desc: "",
+      descBullets: [
+        "Feature implementation and Bug fixes for Ruby on Rails applications",
+        "Developed bulk-management features to exponentially decreased end-user instance management time",
+        "Developed APIs to further decrease instance management time",
+        "Developed Ruby models from scratch for a PostgreSQL database to aid in improved marketing/management of products",
+        "Significantly improved search bar to allow for more natural results",
+      ]
+    },
+    {
       role: "Programmer Analyst (Paid)",
       company: "RCMP",
-      companylogo: require("./assets/images/RCMPlogo.png"),
+      companylogo: require("./assets/images/RCMP-logo.png"),
       date: "May 2021 – August 2021",
       desc: "",
       descBullets: [
@@ -160,9 +186,20 @@ const workExperiences = {
       ]
     },
     {
+      role: "Web Developer",
+      company: "Ethical Principles in AI",
+      companylogo: require("./assets/images/epai_logo.png"),
+      date: "November 2021 – Present",
+      desc: "",
+      descBullets: [
+        "Built and maintain the Club's React based website",
+        "Gaining further insight into the field of AI/ML",
+      ]
+    },
+    {
       role: "Sales Associate (Paid)",
       company: "Mark's",
-      companylogo: require("./assets/images/marks-logo.jpg"),
+      companylogo: require("./assets/images/marks_logo.jpeg"),
       date: "Sep 2013 – Sep 2020",
       desc: "",
       descBullets: [
@@ -175,7 +212,7 @@ const workExperiences = {
       role: "Head Orientation Leader",
       company: "University of Toronto: Orientation Committee",
       companylogo: require("./assets/images/utorontologo.png"),
-      date: "April 2021 – Sep 2021",
+      date: "April 2021 – Present",
       desc: "",
       descBullets: [
         "Developed and practiced leadership skills through managing a team of 25+ student volunteers and 50 incoming students with my co-head lead, while working with the orientation committee to run the University of Toronto's first large scale in-person event since initial shutdowns"
@@ -196,22 +233,11 @@ const workExperiences = {
       role: "Rover Autonomy Developer",
       company: "University of Toronto Robotics for Space Exploration Team",
       companylogo: require("./assets/images/rsx-logo.svg"),
-      date: "March 2021 – Present",
+      date: "March 2021 – January 2022",
       desc: "",
       descBullets: [
         "Assembled Raspberry Pi powered Mini Rover for use in testing rover software",
         "Aided in documenting Mini Rover assembly and software setup"
-      ]
-    },
-    {
-      role: "Structure Team Member",
-      company: "University of Toronto Aerospace Team",
-      companylogo: require("./assets/images/utat-logo.png"),
-      date: "August 2020 - March 2021",
-      desc: "",
-      descBullets: [
-        "Develop CAD models used in manufacturing the ground support systems for the launch of our rockets. (Solidworks)",
-        "Aided in teaching incoming members to use Solidworks"
       ]
     }
   ]
@@ -231,6 +257,18 @@ const bigProjects = {
   title: "Projects",
   subtitle: "",
   projects: [
+    {
+      image: require("./assets/images/sn_logo.png"),
+      projectName: "Skills Network Feature Development",
+      projectDesc: "Developed and deployed custom features to Skills Network's Open edX instance.",
+      footerLink: [
+        {
+          name: "Learn More",
+          url: "https://skills.network"
+        }
+        //  you can add extra buttons here.
+      ]
+    },
     {
       image: require("./assets/images/misp-logo.png"),
       projectName: "MISP Module Development and Deployment",
