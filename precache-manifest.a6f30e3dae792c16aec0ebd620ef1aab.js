@@ -1,43 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5a1ed0a90b49740665f418936a5b859d",
+    "revision": "c8231ff9cff866b3b2bcb4915063a2e5",
     "url": "/index.html"
   },
   {
-    "revision": "82902d7c34fc29f3f965",
+    "revision": "9e6fbffefedeaa32631f",
     "url": "/static/css/3.df879eac.chunk.css"
   },
   {
-    "revision": "d93bca8208c7f96bb99e",
+    "revision": "a11efc82c024206d6faf",
     "url": "/static/css/4.e91a4b36.chunk.css"
   },
   {
-    "revision": "f782f4e3937afe78f475",
+    "revision": "22ed2cbda68ebd551ef1",
     "url": "/static/css/main.e694b77b.chunk.css"
   },
   {
-    "revision": "b7ceca2c1a107fdde0ad",
-    "url": "/static/js/2.149f7925.chunk.js"
+    "revision": "d24cdfad937178838c0a",
+    "url": "/static/js/2.db94ca76.chunk.js"
   },
   {
     "revision": "408f8ade359af8695a328ed937291fdf",
-    "url": "/static/js/2.149f7925.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.db94ca76.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "82902d7c34fc29f3f965",
-    "url": "/static/js/3.e289c0e5.chunk.js"
+    "revision": "9e6fbffefedeaa32631f",
+    "url": "/static/js/3.ea809276.chunk.js"
   },
   {
-    "revision": "d93bca8208c7f96bb99e",
-    "url": "/static/js/4.3f142321.chunk.js"
+    "revision": "a11efc82c024206d6faf",
+    "url": "/static/js/4.31523bad.chunk.js"
   },
   {
-    "revision": "f782f4e3937afe78f475",
-    "url": "/static/js/main.8a841751.chunk.js"
+    "revision": "22ed2cbda68ebd551ef1",
+    "url": "/static/js/main.250dfbe2.chunk.js"
   },
   {
-    "revision": "fb9dd90e403382130ed7",
-    "url": "/static/js/runtime-main.a6df6e98.js"
+    "revision": "d8413551a0166e45bad3",
+    "url": "/static/js/runtime-main.864bef0b.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -94,10 +94,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ee62cb58630f29a6e6201b49d4c03728",
     "url": "/static/media/pwaLogo.ee62cb58.webp"
-  },
-  {
-    "revision": "768210b71b2ee6e3ab7f5a8bc3d98fdd",
-    "url": "/static/media/rsx-logo.768210b7.svg"
   },
   {
     "revision": "3440939881da8339d1597e8d77cdf850",
