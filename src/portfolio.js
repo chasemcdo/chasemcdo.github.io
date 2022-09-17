@@ -171,7 +171,7 @@ const workExperiences = {
     {
       role: "Sales Associate (Paid)",
       company: "Mark's",
-      companylogo: require("./assets/images/marks-logo.jpg"),
+      companylogo: require("./assets/images/marks_logo.jpeg"),
       date: "Sep 2013 – Sep 2020",
       desc: "",
       descBullets: [
