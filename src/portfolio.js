@@ -168,7 +168,7 @@ const workExperiences = {
         "Developed bulk-management features to exponentially decreased end-user instance management time",
         "Developed APIs to further decrease instance management time",
         "Developed Ruby models from scratch for a PostgreSQL database to aid in improved marketing/management of products",
-        "Significantly improved search bar to allow for more natural results",
+        "Significantly improved search bar to allow for more natural results"
       ]
     },
     {
@@ -193,7 +193,7 @@ const workExperiences = {
       desc: "",
       descBullets: [
         "Built and maintain the Club's React based website",
-        "Gaining further insight into the field of AI/ML",
+        "Gaining further insight into the field of AI/ML"
       ]
     },
     {
