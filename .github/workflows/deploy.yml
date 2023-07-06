@@ -19,6 +19,10 @@ jobs:
         with:
           persist-credentials: false
 
+      - name: Do Stuff 🔧 # Debug
+        run: |
+          node --version
+
       - name: Install and Build 🔧 # Build the Project
         run: |
           npm install
