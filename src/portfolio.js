@@ -209,10 +209,21 @@ const workExperiences = {
       ]
     },
     {
+      role: "Vice Chair Leadership",
+      company: "University of Toronto: Orientation Committee",
+      companylogo: require("./assets/images/utorontologo.png"),
+      date: "April 2023 – Present",
+      desc: "",
+      descBullets: [
+        "Oversee creation of training content for 1000 volunteers",
+        "Manage a team of 40 leaders that then directly oversee the 1000 volunteers"
+      ]
+    },
+    {
       role: "Head Orientation Leader",
       company: "University of Toronto: Orientation Committee",
       companylogo: require("./assets/images/utorontologo.png"),
-      date: "April 2021 – Present",
+      date: "April 2021 – April 2023",
       desc: "",
       descBullets: [
         "Developed and practiced leadership skills through managing a team of 25+ student volunteers and 50 incoming students with my co-head lead, while working with the orientation committee to run the University of Toronto's first large scale in-person event since initial shutdowns"
