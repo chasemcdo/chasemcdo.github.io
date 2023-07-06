@@ -1,43 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b418e53b7293fc7774ab99410114ebc9",
+    "revision": "e2cce5b17f57aedfd7d6013b42d7e1d0",
     "url": "/index.html"
   },
   {
-    "revision": "9e6fbffefedeaa32631f",
+    "revision": "8266c7d6adb3cc761b00",
     "url": "/static/css/3.df879eac.chunk.css"
   },
   {
-    "revision": "a11efc82c024206d6faf",
+    "revision": "d8844331cc426fe54cf6",
     "url": "/static/css/4.e91a4b36.chunk.css"
   },
   {
-    "revision": "22ed2cbda68ebd551ef1",
-    "url": "/static/css/main.e694b77b.chunk.css"
+    "revision": "109e144327295934b570",
+    "url": "/static/css/main.5bcc38bb.chunk.css"
   },
   {
-    "revision": "d24cdfad937178838c0a",
-    "url": "/static/js/2.db94ca76.chunk.js"
+    "revision": "1b91f29f017420ae1e1c",
+    "url": "/static/js/2.74b8e6e2.chunk.js"
   },
   {
-    "revision": "408f8ade359af8695a328ed937291fdf",
-    "url": "/static/js/2.db94ca76.chunk.js.LICENSE.txt"
+    "revision": "6e1d2efc12a1ac972ff1f942df7eb0bd",
+    "url": "/static/js/2.74b8e6e2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9e6fbffefedeaa32631f",
-    "url": "/static/js/3.ea809276.chunk.js"
+    "revision": "8266c7d6adb3cc761b00",
+    "url": "/static/js/3.fea9b868.chunk.js"
   },
   {
-    "revision": "a11efc82c024206d6faf",
-    "url": "/static/js/4.31523bad.chunk.js"
+    "revision": "d8844331cc426fe54cf6",
+    "url": "/static/js/4.1855e56a.chunk.js"
   },
   {
-    "revision": "22ed2cbda68ebd551ef1",
-    "url": "/static/js/main.250dfbe2.chunk.js"
+    "revision": "109e144327295934b570",
+    "url": "/static/js/main.9cff19d2.chunk.js"
   },
   {
-    "revision": "d8413551a0166e45bad3",
-    "url": "/static/js/runtime-main.864bef0b.js"
+    "revision": "c67c143c298383125603",
+    "url": "/static/js/runtime-main.9941fe92.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -94,6 +94,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ee62cb58630f29a6e6201b49d4c03728",
     "url": "/static/media/pwaLogo.ee62cb58.webp"
+  },
+  {
+    "revision": "768210b71b2ee6e3ab7f5a8bc3d98fdd",
+    "url": "/static/media/rsx-logo.768210b7.svg"
   },
   {
     "revision": "3440939881da8339d1597e8d77cdf850",
