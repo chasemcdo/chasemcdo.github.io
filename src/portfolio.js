@@ -167,7 +167,8 @@ const workExperiences = {
       descBullets: [
         "Created a platform for managing products and product performance in Ruby on Rails",
         "Created a LLM backed 'chatbot' to enhance teaching instructions",
-        "Created a LLM backed learning environment for people to practice prompt engineering"
+        "Created a LLM backed learning environment for people to practice prompt engineering",
+        "Contributed to Open Source LLM Frameworks: LangChain, GPT4All"
       ]
     },
     {
