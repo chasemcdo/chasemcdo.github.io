@@ -1,43 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e2cce5b17f57aedfd7d6013b42d7e1d0",
+    "revision": "469d23712ae01cc738b500e5bfd23d14",
     "url": "/index.html"
   },
   {
-    "revision": "8266c7d6adb3cc761b00",
+    "revision": "44e8ee54a5bf9b95e83e",
     "url": "/static/css/3.df879eac.chunk.css"
   },
   {
-    "revision": "d8844331cc426fe54cf6",
+    "revision": "036e0e01c47b8c88d755",
     "url": "/static/css/4.e91a4b36.chunk.css"
   },
   {
-    "revision": "109e144327295934b570",
-    "url": "/static/css/main.5bcc38bb.chunk.css"
+    "revision": "cdf984b562cc9e97021e",
+    "url": "/static/css/main.3cba951f.chunk.css"
   },
   {
-    "revision": "1b91f29f017420ae1e1c",
-    "url": "/static/js/2.74b8e6e2.chunk.js"
+    "revision": "cd0fff5f1e063e0367de",
+    "url": "/static/js/2.c86bcf9a.chunk.js"
   },
   {
     "revision": "6e1d2efc12a1ac972ff1f942df7eb0bd",
-    "url": "/static/js/2.74b8e6e2.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.c86bcf9a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8266c7d6adb3cc761b00",
-    "url": "/static/js/3.fea9b868.chunk.js"
+    "revision": "44e8ee54a5bf9b95e83e",
+    "url": "/static/js/3.83fd37ca.chunk.js"
   },
   {
-    "revision": "d8844331cc426fe54cf6",
-    "url": "/static/js/4.1855e56a.chunk.js"
+    "revision": "036e0e01c47b8c88d755",
+    "url": "/static/js/4.aa33edbf.chunk.js"
   },
   {
-    "revision": "109e144327295934b570",
-    "url": "/static/js/main.9cff19d2.chunk.js"
+    "revision": "cdf984b562cc9e97021e",
+    "url": "/static/js/main.4e0a83e9.chunk.js"
   },
   {
-    "revision": "c67c143c298383125603",
-    "url": "/static/js/runtime-main.9941fe92.js"
+    "revision": "1f8c62b2b0d657611c21",
+    "url": "/static/js/runtime-main.07c7e05b.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -60,16 +60,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/contactMailDark.51cf7192.svg"
   },
   {
-    "revision": "a9bb200db37252ccef69fb009b1cc747",
-    "url": "/static/media/cypress-logo.a9bb200d.png"
-  },
-  {
     "revision": "59389695208d7454c6607bed51ed4316",
     "url": "/static/media/developerActivity.59389695.svg"
   },
   {
-    "revision": "9b75d2929557624e9d68aa7c05524779",
-    "url": "/static/media/epai_logo.9b75d292.png"
+    "revision": "692af48f05c14559ca752e5f03f5e0e9",
+    "url": "/static/media/generative-ai-classroom.692af48f.png"
   },
   {
     "revision": "e79c639294c805688be731921368c8f8",
@@ -84,14 +80,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/manOnTable.52be3144.svg"
   },
   {
-    "revision": "2c3ca96dd49b63cf8bfcda8e494d005e",
-    "url": "/static/media/marks_logo.2c3ca96d.jpeg"
-  },
-  {
-    "revision": "604437a7c718989ac48ad0bbf52f4148",
-    "url": "/static/media/misp-logo.604437a7.png"
-  },
-  {
     "revision": "ee62cb58630f29a6e6201b49d4c03728",
     "url": "/static/media/pwaLogo.ee62cb58.webp"
   },
@@ -102,6 +90,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "3440939881da8339d1597e8d77cdf850",
     "url": "/static/media/skill.34409398.svg"
+  },
+  {
+    "revision": "609c2a8dd3f5bd961a5b6f597e924972",
+    "url": "/static/media/tai.609c2a8d.png"
   },
   {
     "revision": "13780cdd0144cacdef25486e2c2503f8",
