@@ -248,7 +248,7 @@ const bigProjects = {
     },
     {
       image: require("./assets/images/tai.png"),
-      projectName: "Teaching Artifical Assistant",
+      projectName: "Teaching Artifical Intelligence (TAI)",
       projectDesc: "Created an LLM powered Teaching Assistant.",
       footerLink: [
         {
