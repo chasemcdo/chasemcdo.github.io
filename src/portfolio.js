@@ -14,7 +14,7 @@ const greeting = {
   username: "Chase McDougall",
   title: "Howdy! I'm Chase",
   subTitle: emoji(
-    "A passionate Full Stack Software Developer with experience building and testing various applications with Ruby on Rails / Python / Django / Flask / Cypress and other cool libraries, frameworks, and applications."
+    "A Full Stack Developer with contributions to open source LLM frameworks (LangChain) and experience building apps in various frameworks - Ruby on Rails, NestJS, Phoenix, and Flask to name a few"
   ),
   resumeLink:
     "https://docs.google.com/document/d/1l6UbQLr1nZPDoEor9mo4KpSTknU2jO9P4vT40cchrAg/edit?usp=sharing", // Set to empty to hide the button
@@ -164,11 +164,9 @@ const workExperiences = {
       date: "May 2022 – Present",
       desc: "",
       descBullets: [
-        "Feature implementation and Bug fixes for Ruby on Rails applications",
-        "Developed bulk-management features to exponentially decreased end-user instance management time",
-        "Developed APIs to further decrease instance management time",
-        "Developed Ruby models from scratch for a PostgreSQL database to aid in improved marketing/management of products",
-        "Significantly improved search bar to allow for more natural results"
+        "Created a platform for managing products and product performance in Ruby on Rails",
+        "Created a LLM backed 'chatbot' to enhance teaching instructions",
+        "Created a LLM backed learning environment for people to practice prompt engineering"
       ]
     },
     {
@@ -186,29 +184,6 @@ const workExperiences = {
       ]
     },
     {
-      role: "Web Developer",
-      company: "Ethical Principles in AI",
-      companylogo: require("./assets/images/epai_logo.png"),
-      date: "November 2021 – Present",
-      desc: "",
-      descBullets: [
-        "Built and maintain the Club's React based website",
-        "Gaining further insight into the field of AI/ML"
-      ]
-    },
-    {
-      role: "Sales Associate (Paid)",
-      company: "Mark's",
-      companylogo: require("./assets/images/marks_logo.jpeg"),
-      date: "Sep 2013 – Sep 2020",
-      desc: "",
-      descBullets: [
-        "Developed my communication skills through customer service",
-        "Recognized in my community for providing excellent customer service",
-        "Maintained and Managed Surveillance System Backups"
-      ]
-    },
-    {
       role: "Vice Chair Leadership",
       company: "University of Toronto: Orientation Committee",
       companylogo: require("./assets/images/utorontologo.png"),
@@ -216,7 +191,7 @@ const workExperiences = {
       desc: "",
       descBullets: [
         "Oversee creation of training content for 1000 volunteers",
-        "Manage a team of 40 leaders that then directly oversee the 1000 volunteers"
+        "Manage a team of 40 head leaders that then directly oversee the 1000 volunteers"
       ]
     },
     {
@@ -227,17 +202,6 @@ const workExperiences = {
       desc: "",
       descBullets: [
         "Developed and practiced leadership skills through managing a team of 25+ student volunteers and 50 incoming students with my co-head lead, while working with the orientation committee to run the University of Toronto's first large scale in-person event since initial shutdowns"
-      ]
-    },
-    {
-      role: "MI Option Representative",
-      company: "University of Toronto: Engineering Society",
-      companylogo: require("./assets/images/utorontologo.png"),
-      date: "April 2021 – Present",
-      desc: "",
-      descBullets: [
-        "Represent the 80 third year Engineering Science students in the Machine Intelligence option for all things academic and otherwise school related",
-        "Actively assist classmates with course related and organizational questions"
       ]
     },
     {
@@ -281,26 +245,27 @@ const bigProjects = {
       ]
     },
     {
-      image: require("./assets/images/misp-logo.png"),
-      projectName: "MISP Module Development and Deployment",
-      projectDesc: "Developed and deployed custom Python modules for a MISP threat sharing instance, interacting with the MISP RESTful API to extract data",
+      image: require("./assets/images/tai.png"),
+      projectName: "Teaching Artifical Assistant",
+      projectDesc: "Created an LLM powered Teaching Assistant.",
       footerLink: [
         {
           name: "Learn More",
-          url: "https://www.misp-project.org/"
+          url: "https://skills.network"
         }
         //  you can add extra buttons here.
       ]
     },
     {
-      image: require("./assets/images/cypress-logo.png"),
-      projectName: "Cypress Test Suite Development and Deployment",
-      projectDesc: "Used Cypress (a JavaScript-based front end testing tool) to develop automated tests for various web apps. These test suites were deployed using Azure DevOps Pipelines for continuous testing of releases.",
+      image: require("./assets/images/generative-ai-classroom.png"),
+      projectName: "Generative AI Classroom",
+      projectDesc: "Built a general purpose LLM service to aid in mastering LLMs.",
       footerLink: [
         {
           name: "Learn More",
-          url: "https://www.cypress.io/"
+          url: "https://skills.network/lab-tools/generative-ai-classroom"
         }
+        //  you can add extra buttons here.
       ]
     }
   ],
