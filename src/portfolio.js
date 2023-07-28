@@ -108,7 +108,7 @@ https://fontawesome.com/icons?d=gallery */
     {
       skillName: "Verilog",
       fontAwesomeClassname: "fas fa-bolt"
-    },
+    }
   ],
   display: true // Set false to hide this section, defaults to true
 };
@@ -121,7 +121,8 @@ const educationInfo = {
     {
       schoolName: "University of Toronto",
       logo: require("./assets/images/utorontologo.png"),
-      subHeader: "Bachelor of Applied Science in Engineering Science - Major in Machine Intelligence",
+      subHeader:
+        "Bachelor of Applied Science in Engineering Science - Major in Machine Intelligence",
       duration: "September 2019 - Present",
       desc: "",
       descBullets: [
@@ -235,7 +236,8 @@ const bigProjects = {
     {
       image: require("./assets/images/sn_logo.png"),
       projectName: "Skills Network Feature Development",
-      projectDesc: "Developed and deployed custom features to Skills Network's Open edX instance.",
+      projectDesc:
+        "Developed and deployed custom features to Skills Network's Open edX instance.",
       footerLink: [
         {
           name: "Learn More",
@@ -259,7 +261,8 @@ const bigProjects = {
     {
       image: require("./assets/images/generative-ai-classroom.png"),
       projectName: "Generative AI Classroom",
-      projectDesc: "Built a general purpose LLM service to aid in mastering LLMs.",
+      projectDesc:
+        "Built a general purpose LLM service to aid in mastering LLMs.",
       footerLink: [
         {
           name: "Learn More",
@@ -418,4 +421,3 @@ export {
   contactInfo,
   twitterDetails
 };
-
