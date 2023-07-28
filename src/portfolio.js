@@ -17,7 +17,7 @@ const greeting = {
     "A Full Stack Developer with contributions to open source LLM frameworks (LangChain) and experience building apps in various frameworks - Ruby on Rails, NestJS, Phoenix, and Flask to name a few"
   ),
   resumeLink:
-    "https://docs.google.com/document/d/1l6UbQLr1nZPDoEor9mo4KpSTknU2jO9P4vT40cchrAg/edit?usp=sharing", // Set to empty to hide the button
+    "https://docs.google.com/document/d/1bLWcdSOYlMEGcATKZpWf7jA0CT_urJoxz8Q4a6vzQzE/edit?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
