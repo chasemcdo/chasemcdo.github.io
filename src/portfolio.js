@@ -14,7 +14,7 @@ const greeting = {
   username: "Chase McDougall",
   title: "Howdy! I'm Chase",
   subTitle: emoji(
-    "A Full Stack Developer with contributions to open source LLM frameworks (LangChain) and experience building apps in various frameworks - Ruby on Rails, NestJS, Phoenix, and Flask to name a few"
+    "A Full Stack Developer with contributions to open source Generative AI frameworks (LangChain) and experience building apps in various frameworks - Ruby on Rails, NestJS, Phoenix, and Flask to name a few"
   ),
   resumeLink:
     "https://docs.google.com/document/d/1bLWcdSOYlMEGcATKZpWf7jA0CT_urJoxz8Q4a6vzQzE/edit?usp=sharing", // Set to empty to hide the button
@@ -110,7 +110,7 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fas fa-bolt"
     }
   ],
-  display: true // Set false to hide this section, defaults to true
+  display: false // Set false to hide this section, defaults to true
 };
 
 // Education Section
@@ -135,7 +135,7 @@ const educationInfo = {
 // Your top 3 proficient stacks/tech experience
 
 const techStack = {
-  viewSkillBars: true, //Set it to true to show Proficiency Section
+  viewSkillBars: false, //Set it to true to show Proficiency Section
   experience: [
     {
       Stack: "Ruby",
@@ -166,9 +166,9 @@ const workExperiences = {
       desc: "",
       descBullets: [
         "Created a platform for managing products and product performance in Ruby on Rails",
-        "Created a LLM backed 'chatbot' to enhance teaching instructions",
-        "Created a LLM backed learning environment for people to practice prompt engineering",
-        "Contributed to Open Source LLM Frameworks: LangChain, GPT4All"
+        "Created a Generative AI backed 'chatbot' to enhance teaching instructions",
+        "Created a Generative AI backed learning environment for people to practice prompt engineering",
+        "Contributed to Open Source Generative AI Frameworks: LangChain, GPT4All"
       ]
     },
     {
@@ -250,7 +250,7 @@ const bigProjects = {
     {
       image: require("./assets/images/tai.png"),
       projectName: "Teaching Artifical Intelligence (TAI)",
-      projectDesc: "Created an LLM powered Teaching Assistant.",
+      projectDesc: "Created an Generative AI powered Teaching Assistant.",
       footerLink: [
         {
           name: "Learn More",
@@ -263,7 +263,7 @@ const bigProjects = {
       image: require("./assets/images/generative-ai-classroom.png"),
       projectName: "Generative AI Classroom",
       projectDesc:
-        "Built a general purpose LLM service to aid in mastering LLMs.",
+        "Built a general purpose Generative AI service to aid in mastering Generative AIs.",
       footerLink: [
         {
           name: "Learn More",
