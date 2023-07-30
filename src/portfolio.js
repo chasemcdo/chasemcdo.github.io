@@ -126,7 +126,7 @@ const educationInfo = {
       duration: "September 2019 - Present",
       desc: "",
       descBullets: [
-        "Pursuing a four year degree in Engineering Science with a Major in Machine Intelligence and Minor in Business, which is a program known for providing its students with a rigorous undergraduate experience"
+        "Pursuing a five year degree in Engineering Science with a Major in Machine Intelligence and Minor in Business, which is a program known for providing its students with a rigorous undergraduate experience"
       ]
     }
   ]
