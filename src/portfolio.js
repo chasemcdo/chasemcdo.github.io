@@ -159,10 +159,35 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: "Software Developer (Paid)",
+      role: "AI Researcher",
+      company: "University of Toronto: Dynamic Graphics Project",
+      companylogo: require("./assets/images/utorontologo.png"),
+      date: "September 2023 – Present",
+      desc: "",
+      descBullets: [
+        "Building Generative AI powered education tools",
+        "Generative AI powered teaching assistant and code grader",
+        "Generative AI powered personalized tasks",
+        "Investigating and analyzing the use of Generative AI to improve learning metrics",
+      ]
+    },
+    {
+      role: "OSS Contributor",
+      company: "LangChain",
+      companylogo: require("./assets/images/langchain-logo.png"),
+      desc: "",
+      descBullets: [
+        "Enabled Redis Sentinel support for various memory stores",
+        "Added support for IBM WatsonX.ai LLM integrations",
+        "Added Support for Gradient AI LLM integrations",
+        "Added Support for Gradient AI Text Embeddings",
+      ]
+    },
+    {
+      role: "Software Developer",
       company: "IBM",
       companylogo: require("./assets/images/ibm_logo.svg"),
-      date: "May 2022 – Present",
+      date: "May 2022 – August 2023",
       desc: "",
       descBullets: [
         "Created a platform for managing products and product performance in Ruby on Rails",
@@ -172,7 +197,7 @@ const workExperiences = {
       ]
     },
     {
-      role: "Programmer Analyst (Paid)",
+      role: "Programmer Analyst",
       company: "RCMP",
       companylogo: require("./assets/images/RCMP-logo.png"),
       date: "May 2021 – August 2021",
@@ -194,27 +219,6 @@ const workExperiences = {
       descBullets: [
         "Oversee creation of training content for 1000 volunteers",
         "Manage a team of 40 head leaders that then directly oversee the 1000 volunteers"
-      ]
-    },
-    {
-      role: "Head Orientation Leader",
-      company: "University of Toronto: Orientation Committee",
-      companylogo: require("./assets/images/utorontologo.png"),
-      date: "April 2021 – April 2023",
-      desc: "",
-      descBullets: [
-        "Developed and practiced leadership skills through managing a team of 25+ student volunteers and 50 incoming students with my co-head lead, while working with the orientation committee to run the University of Toronto's first large scale in-person event since initial shutdowns"
-      ]
-    },
-    {
-      role: "Rover Autonomy Developer",
-      company: "University of Toronto Robotics for Space Exploration Team",
-      companylogo: require("./assets/images/rsx-logo.svg"),
-      date: "March 2021 – January 2022",
-      desc: "",
-      descBullets: [
-        "Assembled Raspberry Pi powered Mini Rover for use in testing rover software",
-        "Aided in documenting Mini Rover assembly and software setup"
       ]
     }
   ]
