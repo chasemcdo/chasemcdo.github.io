@@ -168,11 +168,11 @@ const workExperiences = {
         "Building Generative AI powered education tools",
         "Generative AI powered teaching assistant and code grader",
         "Generative AI powered personalized tasks",
-        "Investigating and analyzing the use of Generative AI to improve learning metrics",
+        "Investigating and analyzing the use of Generative AI to improve learning metrics"
       ]
     },
     {
-      role: "OSS Contributor",
+      role: "OS Contributor",
       company: "LangChain",
       companylogo: require("./assets/images/langchain-logo.png"),
       desc: "",
@@ -180,7 +180,7 @@ const workExperiences = {
         "Enabled Redis Sentinel support for various memory stores",
         "Added support for IBM WatsonX.ai LLM integrations",
         "Added Support for Gradient AI LLM integrations",
-        "Added Support for Gradient AI Text Embeddings",
+        "Added Support for Gradient AI Text Embeddings"
       ]
     },
     {
