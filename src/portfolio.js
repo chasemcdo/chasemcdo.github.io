@@ -190,10 +190,12 @@ const workExperiences = {
       date: "May 2022 – August 2023",
       desc: "",
       descBullets: [
-        "Created a platform for managing products and product performance in Ruby on Rails",
-        "Created a Generative AI backed 'chatbot' to enhance teaching instructions",
-        "Created a Generative AI backed learning environment for people to practice prompt engineering",
-        "Contributed to Open Source Generative AI Frameworks: LangChain, GPT4All"
+        "Created a product management platform to improve performance transparency by 95% (Ruby on Rails)",
+        "Created a Generative AI 'chatbot' to reduce support ticket volume by 82% (TypeScript, NestJS, React)",
+        "Created a Generative AI learning environment for prompt engineering  (TypeScript, NextJS, React)",
+        "Developed Ruby Models for a PostgreSQL database to improve marketing/management",
+        "Developed bulk-management features and APIs to decrease instance management time by 90%",
+        "Developed Open Source Ruby on Rails filtering/search components"
       ]
     },
     {
