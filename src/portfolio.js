@@ -14,7 +14,7 @@ const greeting = {
   username: "Chase McDougall",
   title: "Howdy! I'm Chase",
   subTitle: emoji(
-    "A Full Stack Developer with contributions to open source Generative AI frameworks (LangChain, GPT4All) and experience building apps in various frameworks - Ruby on Rails, NestJS, Phoenix, and Flask to name a few"
+    "A Full Stack Developer with contributions to open source Generative AI frameworks (LangChain, GPT4All) and experience building apps in various frameworks - Ruby on Rails, NestJS, ExpressJS, NextJS, Phoenix, and Flask to name a few"
   ),
   resumeLink:
     "https://docs.google.com/document/d/1bLWcdSOYlMEGcATKZpWf7jA0CT_urJoxz8Q4a6vzQzE/edit?usp=sharing", // Set to empty to hide the button
