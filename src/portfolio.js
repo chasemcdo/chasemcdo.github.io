@@ -160,7 +160,7 @@ const workExperiences = {
     {
       role: "Software Developer",
       company: "Decoda Health",
-      companylogo: require("./assets/images/decodahealth-logo.png"),
+      companylogo: require("./assets/images/decodahealth-logo.jpeg"),
       date: "May 2024 – Present",
       desc: "Building AI-Driven administrative platforms for healthcare practitioners. Empowering them to focus on what matters.",
       descBullets: []
