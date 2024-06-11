@@ -123,10 +123,9 @@ const educationInfo = {
       logo: require("./assets/images/utorontologo.png"),
       subHeader:
         "Bachelor of Applied Science in Engineering Science - Major in Machine Intelligence",
-      duration: "September 2019 - Present",
       desc: "",
       descBullets: [
-        "Pursuing a five year degree in Engineering Science with a Major in Machine Intelligence and Minor in Business, which is a program known for providing its students with a rigorous undergraduate experience"
+        "Graduated with honours from a five year degree in Engineering Science with a Major in Machine Intelligence and Minor in Business, which is a program known for providing its students with a rigorous undergraduate experience"
       ]
     }
   ]
@@ -159,10 +158,18 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
+      role: "Software Developer",
+      company: "Decoda Health",
+      companylogo: require("./assets/images/decodahealth-logo.jpeg"),
+      date: "May 2024 – Present",
+      desc: "Building AI-Driven administrative platforms for healthcare practitioners. Empowering them to focus on what matters.",
+      descBullets: []
+    },
+    {
       role: "AI Researcher",
       company: "University of Toronto: Dynamic Graphics Project",
       companylogo: require("./assets/images/utorontologo.png"),
-      date: "September 2023 – Present",
+      date: "September 2023 – April 2024",
       desc: "",
       descBullets: [
         "Building Generative AI powered education tools",
