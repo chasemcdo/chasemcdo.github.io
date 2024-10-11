@@ -158,7 +158,7 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: "Software Developer",
+      role: "Founding Engineer",
       company: "Decoda Health",
       companylogo: require("./assets/images/decodahealth-logo.jpeg"),
       date: "May 2024 – Present",
