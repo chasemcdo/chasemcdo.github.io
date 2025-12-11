@@ -247,14 +247,14 @@ const bigProjects = {
       image: require("./assets/images/project-images/prescribe.png"),
       projectName: "E-Prescription System",
       projectDesc:
-        "Architected and implemented complete e-prescription integration with DoseSpot platform, including SSO authentication, RESTful APIs, React frontend, and database migrations (4,154+ lines).",
+        "Architected and implemented complete e-prescription integration with DoseSpot platform, including SSO authentication, RESTful APIs, React frontend, and database migrations.",
       footerLink: []
     },
     {
       image: require("./assets/images/project-images/communications.png"),
       projectName: "AI Calling Infrastructure",
       projectDesc:
-        "Built comprehensive AI calling infrastructure using LiveKit to replace Retell-based system with scaling issues. Includes SignalWire migration, DTMF support, observability, and voice/model management (366 commits).",
+        "Built comprehensive AI calling infrastructure using LiveKit to replace Retell-based system with scaling issues. Includes SignalWire migration, DTMF support, observability, and voice/model management.",
       footerLink: []
     },
     {
