@@ -1,43 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "62939d0b6dd884704c1cc7b646532d4b",
+    "revision": "73e63babaf6e80e7a2764eff53803a48",
     "url": "/index.html"
   },
   {
-    "revision": "f203d644c1b1535ca5b3",
+    "revision": "3872af11ce101c22d008",
     "url": "/static/css/3.df879eac.chunk.css"
   },
   {
-    "revision": "ae216d7bcded0283f42b",
+    "revision": "22277851045b798fc148",
     "url": "/static/css/4.e91a4b36.chunk.css"
   },
   {
-    "revision": "93ecc0fa3db63a6af9f6",
+    "revision": "0b7b318245ab2441c06b",
     "url": "/static/css/main.bac87610.chunk.css"
   },
   {
-    "revision": "d87894fef2ae31e55504",
-    "url": "/static/js/2.d7286a84.chunk.js"
+    "revision": "3a4546f5c751067cf0c1",
+    "url": "/static/js/2.d79ef0c3.chunk.js"
   },
   {
     "revision": "408f8ade359af8695a328ed937291fdf",
-    "url": "/static/js/2.d7286a84.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.d79ef0c3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f203d644c1b1535ca5b3",
-    "url": "/static/js/3.72793463.chunk.js"
+    "revision": "3872af11ce101c22d008",
+    "url": "/static/js/3.6f0d4a52.chunk.js"
   },
   {
-    "revision": "ae216d7bcded0283f42b",
-    "url": "/static/js/4.2bebcf78.chunk.js"
+    "revision": "22277851045b798fc148",
+    "url": "/static/js/4.81a56845.chunk.js"
   },
   {
-    "revision": "93ecc0fa3db63a6af9f6",
-    "url": "/static/js/main.4621c164.chunk.js"
+    "revision": "0b7b318245ab2441c06b",
+    "url": "/static/js/main.53211c16.chunk.js"
   },
   {
-    "revision": "34578c8b934bdad60d72",
-    "url": "/static/js/runtime-main.c8b61474.js"
+    "revision": "acb64bfc605d617630e9",
+    "url": "/static/js/runtime-main.d4da988b.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -54,6 +54,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "47a7a717679b640ceb1b05d38c480a61",
     "url": "/static/media/codeInLogo.47a7a717.webp"
+  },
+  {
+    "revision": "87ca6128e5f4091a2fd1b1db2f3f6dab",
+    "url": "/static/media/communications.87ca6128.png"
   },
   {
     "revision": "51cf7192327488da3d2a171280680c16",
@@ -76,6 +80,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/ibm_logo.8f4e3cc2.svg"
   },
   {
+    "revision": "211dc5641068aa1608732a63eff39f3a",
+    "url": "/static/media/import.211dc564.png"
+  },
+  {
     "revision": "fba77460c21fe7b008cfc2cfcdc52e14",
     "url": "/static/media/langchain-logo.fba77460.png"
   },
@@ -84,16 +92,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/manOnTable.52be3144.svg"
   },
   {
+    "revision": "92d8ec05202c27f61b4b1d7c9f7bdd21",
+    "url": "/static/media/prescribe.92d8ec05.png"
+  },
+  {
     "revision": "ee62cb58630f29a6e6201b49d4c03728",
     "url": "/static/media/pwaLogo.ee62cb58.webp"
   },
   {
-    "revision": "3440939881da8339d1597e8d77cdf850",
-    "url": "/static/media/skill.34409398.svg"
+    "revision": "96f2ea6afd12b6c4a0a7d05b1d5b054c",
+    "url": "/static/media/scribe.96f2ea6a.png"
   },
   {
-    "revision": "609c2a8dd3f5bd961a5b6f597e924972",
-    "url": "/static/media/tai.609c2a8d.png"
+    "revision": "3440939881da8339d1597e8d77cdf850",
+    "url": "/static/media/skill.34409398.svg"
   },
   {
     "revision": "13780cdd0144cacdef25486e2c2503f8",
