@@ -14,7 +14,7 @@ const greeting = {
   username: "Chase McDougall",
   title: "Howdy! I'm Chase",
   subTitle: emoji(
-    "A Full Stack Developer with contributions to open source Generative AI frameworks (LangChain, GPT4All) and experience building apps in various frameworks - Ruby on Rails, NestJS, ExpressJS, NextJS, Phoenix, and Flask to name a few"
+    "A Full Stack Developer building AI-powered healthcare platforms. Contributing to open source Generative AI frameworks (LangChain) and building scalable systems with Python, TypeScript, React, FastAPI, and more."
   ),
   resumeLink:
     "https://docs.google.com/document/d/1bLWcdSOYlMEGcATKZpWf7jA0CT_urJoxz8Q4a6vzQzE/edit?usp=sharing", // Set to empty to hide the button
@@ -54,15 +54,11 @@ https://fontawesome.com/icons?d=gallery */
 
   softwareSkills: [
     {
-      skillName: "Learn",
-      fontAwesomeClassname: "fas fa-graduation-cap"
+      skillName: "Python",
+      fontAwesomeClassname: "fab fa-python"
     },
     {
-      skillName: "Ruby on Rails",
-      fontAwesomeClassname: "fas fa-gem"
-    },
-    {
-      skillName: "JavaScript",
+      skillName: "TypeScript",
       fontAwesomeClassname: "fab fa-js"
     },
     {
@@ -70,44 +66,32 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-react"
     },
     {
-      skillName: "Python",
-      fontAwesomeClassname: "fab fa-python"
+      skillName: "FastAPI",
+      fontAwesomeClassname: "fas fa-server"
+    },
+    {
+      skillName: "PostgreSQL",
+      fontAwesomeClassname: "fas fa-database"
+    },
+    {
+      skillName: "Next.js",
+      fontAwesomeClassname: "fab fa-react"
     },
     {
       skillName: "Git",
       fontAwesomeClassname: "fab fa-git-alt"
     },
     {
-      skillName: "Bash",
-      fontAwesomeClassname: "fas fa-terminal"
+      skillName: "Ruby on Rails",
+      fontAwesomeClassname: "fas fa-gem"
     },
     {
-      skillName: "Flask",
-      fontAwesomeClassname: "fas fa-flask"
+      skillName: "Docker",
+      fontAwesomeClassname: "fab fa-docker"
     },
     {
-      skillName: "Django",
-      fontAwesomeClassname: "fas fa-server"
-    },
-    {
-      skillName: "Linux",
-      fontAwesomeClassname: "fab fa-linux"
-    },
-    {
-      skillName: "SQL",
-      fontAwesomeClassname: "fas fa-database"
-    },
-    {
-      skillName: "HTML-5",
-      fontAwesomeClassname: "fab fa-html5"
-    },
-    {
-      skillName: "CSS3",
-      fontAwesomeClassname: "fab fa-css3-alt"
-    },
-    {
-      skillName: "Verilog",
-      fontAwesomeClassname: "fas fa-bolt"
+      skillName: "Google Cloud",
+      fontAwesomeClassname: "fab fa-google"
     }
   ],
   display: false // Set false to hide this section, defaults to true
@@ -163,7 +147,12 @@ const workExperiences = {
       companylogo: require("./assets/images/decodahealth-logo.jpeg"),
       date: "May 2024 – Present",
       desc: "Building AI-Driven administrative platforms for healthcare practitioners. Empowering them to focus on what matters.",
-      descBullets: []
+      descBullets: [
+        "Built AI-powered medical scribe system reducing doctors' documentation time with real-time transcription and AI note generation",
+        "Architected e-prescription system integrating DoseSpot platform with SSO authentication, RESTful APIs, and React frontend",
+        "Built custom form builder system enabling clinics to create unlimited custom forms with automatic patient record propagation",
+        "Built scalable AI calling infrastructure using LiveKit to replace Retell-based system, including SignalWire migration and multi-channel communication"
+      ]
     },
     {
       role: "AI Researcher",
@@ -282,7 +271,6 @@ const bigProjects = {
           name: "Learn More",
           url: "https://skills.network/lab-tools/generative-ai-classroom"
         }
-        //  you can add extra buttons here.
       ]
     }
   ],
