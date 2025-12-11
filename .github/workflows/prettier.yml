@@ -17,7 +17,7 @@ jobs:
           node-version: "18"
 
       - name: Install dependencies
-        run: npm ci
+        run: yarn install --frozen-lockfile
 
       - name: Check Format
-        run: npm run check-format
+        run: yarn check-format
