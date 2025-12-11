@@ -237,29 +237,32 @@ const bigProjects = {
   subtitle: "",
   projects: [
     {
-      image: require("./assets/images/sn_logo.png"),
-      projectName: "Skills Network Feature Development",
+      image: require("./assets/images/project-images/scribe.png"),
+      projectName: "AI-Powered Medical Scribe",
       projectDesc:
-        "Developed and deployed custom features to Skills Network's Open edX instance.",
-      footerLink: [
-        {
-          name: "Learn More",
-          url: "https://skills.network"
-        }
-        //  you can add extra buttons here.
-      ]
+        "Built comprehensive AI-powered medical note-taking system that saves doctors' note-taking time with real-time transcription and AI note generation. Includes image annotation, attachment management, and EHR integration.",
+      footerLink: []
     },
     {
-      image: require("./assets/images/tai.png"),
-      projectName: "Teaching Artifical Intelligence (TAI)",
-      projectDesc: "Created an Generative AI powered Teaching Assistant.",
-      footerLink: [
-        {
-          name: "Learn More",
-          url: "https://skills.network"
-        }
-        //  you can add extra buttons here.
-      ]
+      image: require("./assets/images/project-images/prescribe.png"),
+      projectName: "E-Prescription System",
+      projectDesc:
+        "Architected and implemented complete e-prescription integration with DoseSpot platform, including SSO authentication, RESTful APIs, React frontend, and database migrations (4,154+ lines).",
+      footerLink: []
+    },
+    {
+      image: require("./assets/images/project-images/communications.png"),
+      projectName: "AI Calling Infrastructure",
+      projectDesc:
+        "Built comprehensive AI calling infrastructure using LiveKit to replace Retell-based system with scaling issues. Includes SignalWire migration, DTMF support, observability, and voice/model management (366 commits).",
+      footerLink: []
+    },
+    {
+      image: require("./assets/images/project-images/import.png"),
+      projectName: "Data Import/Integration Pipelines",
+      projectDesc:
+        "Created comprehensive ETL pipelines for data import and integration from multiple healthcare platforms (Boulevard, Fresha, TouchMD). Includes automated data validation, transformation, and patient record synchronization.",
+      footerLink: []
     },
     {
       image: require("./assets/images/generative-ai-classroom.png"),
