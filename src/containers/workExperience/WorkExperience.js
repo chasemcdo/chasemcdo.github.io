@@ -14,10 +14,10 @@ export default function WorkExperience() {
       setIsMobile(window.innerWidth <= 768);
     };
     checkMobile();
-    window.addEventListener('resize', checkMobile);
-    return () => window.removeEventListener('resize', checkMobile);
+    window.addEventListener("resize", checkMobile);
+    return () => window.removeEventListener("resize", checkMobile);
   }, []);
-  
+
   if (workExperiences.display) {
     const containerContent = (
       <div className="experience-container" id="workExperience">

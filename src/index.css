@@ -49,14 +49,14 @@ body {
     transform: none !important;
     visibility: visible !important;
   }
-  
+
   /* Ensure experience and projects sections are visible */
   #experience,
   #opensource {
     opacity: 1 !important;
     visibility: visible !important;
   }
-  
+
   #experience > *,
   #opensource > * {
     opacity: 1 !important;
