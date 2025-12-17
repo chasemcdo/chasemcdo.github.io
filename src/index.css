@@ -39,3 +39,27 @@ body {
     line-height: normal;
   }
 }
+
+/* Fix react-reveal visibility on mobile */
+@media (max-width: 768px) {
+  /* Force react-reveal elements to be visible on mobile */
+  [class*="react-reveal"],
+  div[style*="opacity"] {
+    opacity: 1 !important;
+    transform: none !important;
+    visibility: visible !important;
+  }
+  
+  /* Ensure experience and projects sections are visible */
+  #experience,
+  #opensource {
+    opacity: 1 !important;
+    visibility: visible !important;
+  }
+  
+  #experience > *,
+  #opensource > * {
+    opacity: 1 !important;
+    transform: none !important;
+  }
+}

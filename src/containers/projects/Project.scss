@@ -27,6 +27,14 @@
     text-align: center;
   }
   .repo-cards-div-main {
-    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    grid-template-columns: 1fr;
+    gap: 1rem 0;
+    width: 100%;
+  }
+  #opensource {
+    width: 100%;
+    padding: 20px 15px;
+    box-sizing: border-box;
+    overflow-x: hidden;
   }
 }
